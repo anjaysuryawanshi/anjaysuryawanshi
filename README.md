@@ -24,7 +24,7 @@ I enjoy solving real-world problems with clean code, scalable architectures, and
 - HTML5, CSS3, Bootstrap  
 - JSP, Servlets, Hibernate  
 - RESTful APIs  
-- ReactJS, Angular Basics  
+- ReactJS, Angular 
 
 ### 🗄️ Databases & Tools
 - MySQL, Oracle  
